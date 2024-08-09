@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-08-08T20:44:42Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "atmega_V1.1.0 v5"
+        },
+        "Owner": "Jurijs Sklarevics <jurijs@mkelectronics.co.uk>",
+        "Size": {
+            "X": 70,
+            "Y": 100
+        }
+    }
+}
